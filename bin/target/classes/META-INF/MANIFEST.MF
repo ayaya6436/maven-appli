@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: ayaya
+Build-Jdk: 17.0.6
+Main-Class: org.exemple.demo.App
+Created-By: Maven Integration for Eclipse
+
